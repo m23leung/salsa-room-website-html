@@ -1,2 +1,2 @@
-# power-room-website-html
-Power Room with HTML
+# salsa-room-website-html
+Salsa Room with HTML
